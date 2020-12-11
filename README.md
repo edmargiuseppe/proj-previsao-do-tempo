@@ -1,2 +1,16 @@
-# proj-previsao-do-tempo
-Projeto para consultar a previsão do tempo via API
+# Projeto para consultar a previsão do tempo via API
+
+- Criando App para consultar a previsão do tempo via API
+
+  
+
+  
+
+
+
+
+
+
+
+
+
